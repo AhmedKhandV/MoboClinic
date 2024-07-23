@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309705959405",
+    "project_id": "moboclinic-7e76e",
+    "storage_bucket": "moboclinic-7e76e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309705959405:android:94532c5e352902c04669e4",
+        "android_client_info": {
+          "package_name": "com.example.mobo_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdazW02mUG89B_rwoKLfrBasrzj-pQjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
